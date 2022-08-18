@@ -1,0 +1,21 @@
+/*Untuk Tablet*/
+@media (max-width: 768px) {
+    .movie {
+        width: 50%;
+        margin-bottom: 50px;
+    }
+}
+
+/*Untuk Smartphone*/
+@media (max-width: 670px ) {
+    .movie {
+        width: 50%;
+    }
+}
+
+/*Untuk Dekstops*/
+@media (max-width: 1000px ) {
+    .movie {
+        width: 100%;
+    }
+}
