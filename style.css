@@ -1,0 +1,95 @@
+*{
+    box-sizing: border-box;
+    }
+    
+.container {
+    width: 100%;
+    padding: 0 5px;
+    margin: 0 auto;
+}
+
+.featuredmovie {
+    width: auto;
+    height: 300px;
+    padding-bottom: 80px;
+    background-color: #f7f7f7;
+    text-align: center;
+}
+
+.local {
+    width: auto;
+    height: 300px;
+    padding-bottom: 80px;
+    background-color: #f7f7f7;
+    text-align: center;
+    flex-wrap: wrap;
+}
+
+.newarrival {
+    width: auto;
+    height: 300px;
+    padding-bottom: 80px;
+    background-color: #f7f7f7;
+    text-align: center;
+}
+    
+.heading {
+    text-align: justify;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+.movie {
+    float: left;
+    width: 20%;
+    padding-left: 15px;
+    padding-right: 5px;
+      
+}
+
+.movie-poster {
+    position: relative;
+}
+
+.movie-poster p {
+    font-weight: bold;
+    font-size: 22px;
+    line-height: 20px;
+}
+
+.txt-contents {
+    color: #b3aeb5;
+    font-size: 18px;
+}
+
+.mv {
+    padding: 15px 40px;
+    cursor: pointer;
+  }
+
+.mv:active {
+    position: relative;
+    top: 7px;
+    
+  }
+
+.fa-imdb {
+    color: darkgoldenrod;
+}
+
+.iconL{
+    color: black;
+    padding-top: 50%;
+    font-size: 30px;
+    float: left;
+    padding-right: 10px;
+}
+
+.iconR {
+    color: black;
+    padding-top: 50%;
+    font-size: 30px;
+    float: right;
+    padding-right: 10px;
+}
+
