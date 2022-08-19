@@ -1,2 +1,2 @@
-# project.github.io
+# projectprogate.github.io
 Project HTML &amp; CSS
